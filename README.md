@@ -21,3 +21,7 @@ Rules that work share three properties: they're **specific** (exact patterns, no
 - 🐍 [Python Backend](https://cursorrulespacks.gumroad.com/l/python-backend-rules-pack) ($15)
 - 🐛 [Debugging](https://cursorrulespacks.gumroad.com/l/debugging-rules-pack) ($12)
 - 📦 [Complete Bundle](https://cursorrulespacks.gumroad.com/l/complete-cursor-rules-bundle) ($29)
+
+## Links
+
+🛒 [Gumroad Store](https://cursorrulespacks.gumroad.com) · 📝 [Dev.to](https://dev.to/nedcodes) · 💬 [Cursor Forum](https://forum.cursor.com) · 📦 [Free Collection](https://github.com/cursorrulespacks/cursorrules-collection)
