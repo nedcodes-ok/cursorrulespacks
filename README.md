@@ -1,11 +1,11 @@
 # 👋 Hey, I'm nedcodes
 
-I test Cursor AI rules and build tooling. I also do **$50 async setup audits** — I review your rules, project structure, and config, then send a written report with exactly what to fix. No calls, 48-hour turnaround. Email **cursorrulespacks@gmail.com** to get started.
+I test Cursor AI rules and build tooling. Check out **[cursor-doctor](https://github.com/nedcodes-ok/cursor-doctor)** — diagnose and auto-fix your Cursor setup in seconds. Free health check, Pro diagnostics for $9.
 
 ## What I do
 
-- **[cursor-lint](https://github.com/cursorrulespacks/cursor-lint)** — Open source linter for Cursor rules. Catches broken configs before they waste your time.
-- **[60+ free rules](https://github.com/cursorrulespacks/cursorrules-collection)** — Tested .cursorrules and .mdc files organized by language, framework, and practice.
+- **[cursor-doctor](https://github.com/nedcodes-ok/cursor-doctor)** — Diagnose and auto-fix your Cursor AI setup. Health checks, conflict detection, and auto-repair.
+- **[110+ free rules](https://github.com/nedcodes-ok/cursorrules-collection)** — Tested .cursorrules and .mdc files organized by language, framework, and practice.
 - **[Articles](https://dev.to/nedcodes)** — Real tests, real results. No hype.
 
 ## Writing
